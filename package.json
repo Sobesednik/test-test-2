@@ -1,0 +1,24 @@
+{
+  "name": "test-test-2",
+  "version": "0.1.0",
+  "description": "test2",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "zoroaster test/spec",
+    "test-watch": "zoroaster test/spec --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Sobesednik/test-test-2.git"
+  },
+  "keywords": ["test-test-2"],
+  "author": "Anton <anton@sobes.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sobesednik/test-test-2/issues"
+  },
+  "homepage": "https://github.com/Sobesednik/test-test-2#readme",
+  "devDependencies": {
+    "zoroaster": "0.4.6"
+  }
+}
